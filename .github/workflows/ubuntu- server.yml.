@@ -34,4 +34,5 @@ echo "narutouzumaki sudo sed -i 's/#Per sudo service ssh re
 
 name: Display SSH com run:|
 
-echo "SSH is runnin echo "ssh your_user
+echo "SSH is runnin echo "
+SHA256:7bAZ4vKTfA+EMZBBDzdHnaPoWJhl//U3P11w0/BCVfI
